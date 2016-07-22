@@ -23,7 +23,7 @@ header {
     padding: 1em;
     color: #fff;
     text-decoration: none;
-    background: #0074D9;
+    background: #FF851B;
     display: inline-block;
     margin-right: 1em;
     -webkit-border-radius: 5px;
@@ -40,6 +40,6 @@ header {
   margin-bottom: 1.5em;
   box-shadow: 5px 5px 2px #000; }
   .main article h2 {
-    color: #0074D9; }
+    color: #FF851B; }
 
 /*# sourceMappingURL=estilos.css.map */

@@ -3,7 +3,7 @@
   padding: 0; }
 
 body {
-  background: #001F3F;
+  background: #FF851B;
   color: #111; }
 
 a {
@@ -23,7 +23,7 @@ header {
     padding: 1em;
     color: #fff;
     text-decoration: none;
-    background: #FF851B;
+    background: #FF4136;
     display: inline-block;
     margin-right: 1em;
     -webkit-border-radius: 5px;
@@ -40,6 +40,6 @@ header {
   margin-bottom: 1.5em;
   box-shadow: 5px 5px 2px #000; }
   .main article h2 {
-    color: #FF851B; }
+    color: #FF4136; }
 
 /*# sourceMappingURL=estilos.css.map */
